@@ -11,3 +11,14 @@ La nostra App si basa su un processo di onboarding che mira a valorizzare sia So
 [Clicca qui](https://miro.com/welcomeonboard/aAbX6NLjTnLWBcVPqsUuHhwTRWtt6f84L5DVme3rPlaSoipOdqliuifgeCsLElNk) per vedere la Miro board con gli aspetti principali della nostra idea, oppure scansiona il QR code
 
 ![QR Code prototipo](miro_board.png)
+
+
+![QR Code prototipo](formazione.PNG)
+
+![QR Code prototipo](processo.PNG)
+
+![QR Code prototipo](data-driven.PNG)
+
+![QR Code prototipo](networking-empowerment.PNG)
+
+![QR Code prototipo](overview.PNG)
